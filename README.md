@@ -5,16 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmiranda1996" alt="jmiranda1996" /></a> </p>
 
-- 🔭 I’m currently working on **NTT Data**
+<p align="left"> <a href="https://twitter.com/jmirandar1996" target="blank"><img src="https://img.shields.io/twitter/follow/jmirandar1996?logo=twitter&style=for-the-badge" alt="jmirandar1996" /></a> </p>
+
+- 🔭 I’m currently working on [NTT Data](https://github.com/KayTrust)
 
 - 🌱 I’m currently learning **Rust for develop parachains**
 
-- 👯 I’m looking to collaborate on **KayTrust**
+- 👯 I’m looking to collaborate on [KayTrust](https://github.com/KayTrust)
 
 - 💬 Ask me about **React JS, Node JS, C# and more except php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/jmiranda1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jmiranda1996" height="30" width="40" /></a>
+<a href="https://twitter.com/jmirandar1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jmirandar1996" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jmiranda1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmiranda1996" height="30" width="40" /></a>
+<a href="https://instagram.com/jmiranda1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jmiranda1996" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmiranda1996&show_icons=true&locale=en" alt="jmiranda1996" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmiranda1996&" alt="jmiranda1996" /></p>
-
