@@ -15,6 +15,10 @@
 
 - 💬 Ask me about **React JS, Node JS, C# and more except php**
 
+<h3 align="left">My Certificates:</h3>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a76f626-7a91-4aea-be32-9faf8ad7f016" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jmiranda1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jmiranda1996" height="30" width="40" /></a>
