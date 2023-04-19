@@ -19,14 +19,15 @@
 
 <p align="left">
    <a href="https://www.credly.com/badges/0a76f626-7a91-4aea-be32-9faf8ad7f016/public_url" target="_blank" rel="noreferrer">
-     <img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="jmiranda1996" height="80"      width="80" />
+     <img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="jmiranda1996" height="100"      width="100" />
    </a>
-  <a href="https://www.credly.com/badges/0a76f626-7a91-4aea-be32-9faf8ad7f016/public_url" target="_blank" rel="noreferrer">
-     <img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="jmiranda1996" height="80"      width="80" />
+  <a href="https://www.credly.com/badges/33a34922-7c1d-4b7d-825f-90056dbcbbec/public_url" target="_blank" rel="noreferrer">
+     <img align="center" src="https://images.credly.com/size/220x220/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"           alt="jmiranda1996" height="100" width="100" />
+   </a>
+  <a href="https://www.credly.com/badges/4f84c6ae-7dfe-45b3-b1f4-0605e8cd4148/public_url" target="_blank" rel="noreferrer">
+     <img align="center" src="https://images.credly.com/size/220x220/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"           alt="jmiranda1996" height="100" width="100" />
    </a>
 </p>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a76f626-7a91-4aea-be32-9faf8ad7f016" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
