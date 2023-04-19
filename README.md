@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React JS, Node JS, C# and more except php**
 
-<h3 align="left">My Certificates:</h3>
+<h3 align="left">My certificates:</h3>
 
 <p align="left">
    <a href="https://www.credly.com/badges/afe8d0c4-f247-41ce-89bf-74cabab7b543/public_url" target="_blank" rel="noreferrer">
