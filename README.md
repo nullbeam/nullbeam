@@ -19,10 +19,10 @@
 
 <p align="left">
    <a href="https://www.credly.com/badges/0a76f626-7a91-4aea-be32-9faf8ad7f016/public_url" target="_blank" rel="noreferrer">
-     <img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="jmiranda1996" height="30"      width="40" />
+     <img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="jmiranda1996" height="80"      width="80" />
    </a>
   <a href="https://www.credly.com/badges/0a76f626-7a91-4aea-be32-9faf8ad7f016/public_url" target="_blank" rel="noreferrer">
-     <img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="jmiranda1996" height="30"      width="40" />
+     <img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="jmiranda1996" height="80"      width="80" />
    </a>
 </p>
 
