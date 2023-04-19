@@ -18,6 +18,9 @@
 <h3 align="left">My Certificates:</h3>
 
 <p align="left">
+   <a href="https://www.credly.com/badges/afe8d0c4-f247-41ce-89bf-74cabab7b543/public_url" target="_blank" rel="noreferrer">
+     <img align="center" src="https://images.credly.com/size/220x220/images/c77e8f62-9e1d-44dd-b9a1-427ae26e6f0f/MicrosoftTeams-image__5_.png"                    alt="jmiranda1996" height="100" width="100" />
+   </a>
    <a href="https://www.credly.com/badges/0a76f626-7a91-4aea-be32-9faf8ad7f016/public_url" target="_blank" rel="noreferrer">
      <img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="jmiranda1996" height="100"      width="100" />
    </a>
