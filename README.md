@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullbeam" alt="nullbeam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jmirandar1996" target="blank"><img src="https://img.shields.io/twitter/follow/jmirandar1996?logo=twitter&style=for-the-badge" alt="jmirandar1996" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nullbeam" target="blank"><img src="https://img.shields.io/twitter/follow/nullbeam?logo=twitter&style=for-the-badge" alt="nullbeam" /></a> </p>
 
 - 🔭 I’m currently working on [NTT Data](https://github.com/KayTrust)
 
