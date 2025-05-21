@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [NTT Data](https://github.com/KayTrust)
 
-- 🌱 I’m currently learning **Rust for develop parachains**
+- 🌱 I’m currently learning **Quantum Computing**
 
 - 👯 I’m looking to collaborate on [KayTrust](https://github.com/KayTrust)
 
-- 💬 Ask me about **React JS, Node JS, C# and more except php**
+- 💬 Ask me about **.Net Core, Rust, DevOps, Cloud and more except php**
 
 <h3 align="left">My certificates:</h3>
 
